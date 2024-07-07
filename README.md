@@ -1,7 +1,3 @@
----
-layout: default
----
-
 <div style="display: flex; align-items: center;">
   <img src="https://github.com/thomjak.png" alt="Your GitHub Avatar" style="border-radius: 50%; width: 150px; height: 150px; margin-right: 20px;">
   <h1>Thomas Jakobsen</h1>
