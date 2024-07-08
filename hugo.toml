@@ -1,0 +1,4 @@
+baseURL = 'https://thomjak.github.io'
+languageCode = 'en-us'
+title = 'Thomas Jakobsen'
+theme = 'lynx'
